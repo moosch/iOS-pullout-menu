@@ -16,9 +16,11 @@ Here is a [demo](http://demo.mooschmedia.com/ios-pullout-menu/ "Demo").
 I've tested on the following device browsers:
 
 Safari (iPhone 5) - Works
+
 Chrome (iPhone 5) - Works
 
 Safari (iPad) - Works
+
 Chrome (iPad) - Works
 
 
